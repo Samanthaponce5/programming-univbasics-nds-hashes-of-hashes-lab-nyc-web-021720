@@ -53,7 +53,11 @@
 
 
   def naming_system
-
+new_hash = {
+  
+  
+  
+}
     
 
 end
