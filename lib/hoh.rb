@@ -54,7 +54,7 @@
 
   def naming_system
 new_hash = {
-  {
+  
    label: "Kingdom",
    sub_category: {
      label: "Phylum",
@@ -68,7 +68,7 @@ new_hash = {
               label: "Genus",
               sub_category:{
               label: "Species",
-              }}}}}}}}
+              }}}}}}}
 
  
  
